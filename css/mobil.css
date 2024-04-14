@@ -91,4 +91,7 @@
 }
 
 /* PAGES CONTACTO */
-
+.form {
+	margin: 5rem auto;
+	width: 34rem;
+}
