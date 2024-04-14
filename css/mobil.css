@@ -1,0 +1,94 @@
+
+/* HEADER */
+.header {
+	height: 47rem;
+	padding: 2rem;
+}
+
+.navbar {
+	flex-direction: column;
+}
+
+.navbar__logo {
+	width: 5rem;
+}
+
+.navbar__menu {
+	gap: 2.5rem;
+	margin-top: 1rem;
+}
+
+.navbar__menu a {
+	font-size: 1.7rem;
+}
+
+.banner {
+	margin-top: -18rem;
+}
+
+.banner__title {
+	font-size: 2rem;
+	line-height: 1.7;
+}
+
+.banner__text {
+	font-size: 2rem;
+	line-height: 1.5;
+}
+
+/* SLIDER */
+.slide h3 {
+	font-size: 2.3rem;
+	line-height: 1.4;
+}
+
+/* FOOTER */
+.footer__flex {
+	flex-direction: column;
+	gap: 2rem;
+}
+
+/* PAGE ENTRADA DEL BLOG */
+.entrada {
+	padding: 4rem 0;
+}
+
+.entrada h1 {
+	font-size: 4rem;
+	padding-bottom: 3rem;
+}
+
+.entrada img {
+	width: 40rem;
+}
+
+/* PAGE NOSOTROS */
+.nosotros__flex {
+	flex-direction: column;
+}
+
+.nosotros img {
+	width: 30rem;
+	height: auto;
+	margin: 0 auto;
+}
+
+.nosotros p {
+	line-height: 2.2rem;
+}
+
+/* PAGE CURSO */
+.curso h2 {
+	font-size: 3rem;
+}
+
+.curso__flex {
+	flex-wrap: wrap;
+}
+
+.curso__card h3 {
+	font-size: 2.5rem;
+}
+
+/* PAGES CONTACTO */
+
